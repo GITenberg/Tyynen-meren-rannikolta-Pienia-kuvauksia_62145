@@ -1,0 +1,28 @@
+_repo: Tyynen-meren-rannikolta-Pienia-kuvauksia_62145
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hämeen-Anttila, Väinö
+    aliases:
+    - Hämeen-Anttila, V.
+    - Hameen-Anttila, Vaino
+    birthdate: 1878
+    deathdate: 1942
+    gutenberg_agent_id: '43032'
+    url: http://www.gutenberg.org/2009/agents/43032
+    wikipedia: https://fi.wikipedia.org/wiki/Väinö_Hämeen-Anttila
+description: ''
+gutenberg_issued: '2020-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62145'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F850.5'
+- !lcsh 'Pacific Coast (U.S.) -- Description and travel'
+- GITenberg
+title: 'Tyynen meren rannikolta: Pieniä kuvauksia'
+url: http://www.gutenberg.org/ebooks/62145
