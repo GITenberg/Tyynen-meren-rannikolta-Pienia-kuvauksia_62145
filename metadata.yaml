@@ -1,5 +1,8 @@
 _repo: Tyynen-meren-rannikolta-Pienia-kuvauksia_62145
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hämeen-Anttila, Väinö
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43032
     wikipedia: https://fi.wikipedia.org/wiki/Väinö_Hämeen-Anttila
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62145#Tyynen-meren-rannikolta-Pienia-kuvauksia
 gutenberg_issued: '2020-05-16'
 gutenberg_type: Text
 identifiers:
